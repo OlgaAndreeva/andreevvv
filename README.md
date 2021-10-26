@@ -14,9 +14,9 @@
   	      		 
 	     ORCID <a href="http://orcid.org/0000-0002-7557-352X">0000-0002-7557-352X</a><br>
 	     ResearcherID <a href="http://www.researcherid.com/rid/L-1489-2016">L-1489-2016</a><br>
-		 Scopus AuthorID <a href="https://www.scopus.com/authid/detail.uri?authorId=25925005700">25925005700</a><br>
+	     Scopus AuthorID <a href="https://www.scopus.com/authid/detail.uri?authorId=25925005700">25925005700</a><br>
 	     GitHub <a href="https://github.com/iagsav"> https://github.com/iagsav</a><br>      
-	     Instagram <a href="https://www.instagram.com/tinyroboticsteam/">Tiny Robotics Team</a><br>  
+	     Instagram <a href="https://instagram.com/andreev_vyach/">andreev_vyach</a><br>  
 	     EMail <a href="mailto:vyach.andreev@mail.ru"> vyach.andreev@mail.ru</a><br><br>      
   <h3>Научные интересы</h3>
   <h4>системный анализ, управление и обработка информации, ядерные реакторы, энергетические установки, атомное реакторостроение, машины, агрегаты и технология материалов атомной промышленности</h4>
