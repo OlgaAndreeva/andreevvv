@@ -13,8 +13,9 @@
 	     
   	      		 
 	     ORCID <a href="http://orcid.org/0000-0002-7557-352X">0000-0002-7557-352X</a><br>
-	     ResearcherID <a href="http://www.researcherid.com/rid/L-1489-2016">L-1489-2016</a><br>
-	     Scopus AuthorID <a href="https://www.scopus.com/authid/detail.uri?authorId=25925005700">25925005700</a><br>
+	     ResearcherID <a href="http://www.researcherid.com/rid/AAD-1749-2020">AAD-1749-2020</a><br>
+	     Scopus AuthorID <a href="https://www.scopus.com/authid/detail.uri?authorId=57210119182">57210119182</a><br>
+	     РИНЦ ID <a href="https://www.scopus.com/authid/detail.uri?authorId=259735">259735</a><br>259735
 	     GitHub <a href="https://github.com/iagsav"> https://github.com/iagsav</a><br>      
 	     Instagram <a href="https://instagram.com/andreev_vyach/">andreev_vyach</a><br>  
 	     EMail <a href="mailto:vyach.andreev@mail.ru"> vyach.andreev@mail.ru</a><br><br>      
