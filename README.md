@@ -1,11 +1,2 @@
-<html>
-<head>
-<title>Резюме / CV</title>
-
-</head>
-  <body>
-
-    <h1>Андреев Вячеслав Викторович</h1>
-    <h2>д.т.н., профессор</h2>
-    </body>
-    </html>
+email: vyach.andreev@mail.ru 
+ORCID: 0000-0002-7557-352X
