@@ -3,7 +3,7 @@
 <title>Резюме / CV</title>
 </head>
   <body>
-        <img src="andreevvv/NIK_3332-Андреев В.В..JPG" alt="Italian Trulli">
+        <img src="NIK_3332-Андреев В.В..JPG" alt="Andreev">
 	  <h3>Заведующий кафедры «Ядерные реакторы и энергетические установки» НГТУ им. Р.Е. Алексеева</h3>
 	 <h3>Профессор, доктор технических наук </h3>
      <div id="story">
