@@ -3,7 +3,7 @@
 <title>Резюме / CV</title>
 </head>
   <body>
-        <img src="NIK_3332-Андреев В.В..JPG" alt="Andreev" width="150" height="200" class="center">
+        <img src="NIK_3332-Андреев В.В..JPG" alt="Andreev" style="width:128px;height:128px;">
 	  
 	 <h3>Заведующий кафедры «Ядерные реакторы и энергетические установки» НГТУ им. Р.Е. Алексеева</h3>
 	 <h3>Профессор, доктор технических наук </h3>
